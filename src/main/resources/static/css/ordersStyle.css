@@ -1,0 +1,28 @@
+/* RESULTS */
+
+.result-container img{
+  width:30px;
+}
+.result-container img:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
+/*.orderToConfirm:hover{
+  cursor: pointer;
+  background-color: darkgrey;
+}
+
+tr:nth-child(even){
+  background-color: grey;
+}*/
+#content {
+	display: none;
+}
+.products-table{
+  display: none;
+}
+.products-table tr:hover{
+  cursor: pointer;
+}
+
+/* RESULTS pd*/
